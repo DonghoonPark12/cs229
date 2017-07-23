@@ -8,4 +8,6 @@
 - **Random Initialization**  
 <https://stackoverflow.com/questions/20027598/why-should-weights-of-neural-networks-be-initialized-to-random-numbers>
 
-
+### Week7
+- **PCA**
+<http://darkpgmr.tistory.com/110>
