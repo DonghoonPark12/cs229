@@ -1,5 +1,6 @@
 # Coursera_Machine-Learning 
 
+- **Batch Normalization**
 
 ### Week5
 - **Backpopagation**  
@@ -13,3 +14,10 @@
 - **PCA**  
 <http://darkpgmr.tistory.com/110>  
 <https://wikidocs.net/7646>  
+
+
+
+
+
+
+<https://www.youtube.com/watch?v=2-Ol7ZB0MmU>
