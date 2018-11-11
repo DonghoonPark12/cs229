@@ -1,6 +1,5 @@
 # Coursera_Machine-Learning 
 
-- **Batch Normalization**
 
 ### Week5
 - **Backpopagation**  
